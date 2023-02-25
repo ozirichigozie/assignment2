@@ -3,7 +3,7 @@ body {
 }
 .sciFi-bg {
     width: 100%;
-    background-image: url('/sci-fi1.gif');
+    background-image: url('./sci-fi1.gif');
 }
 
 h1 {
